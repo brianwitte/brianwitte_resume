@@ -26,7 +26,7 @@
 ### Keet Health - acquired by WebPT
 **Software Engineer** | Nov 2021–Sep 2023
 
-- **Care plan management:** On the core product, I work on the subsystem related to managing patient care plans for the treatment of musculoskeletal injuries. This is an API that organizes related exercises, classifications, appointments, diagnoses, etc. for patients, clinicians, and administrators.
+- **Care plan management:** On the core product, I worked on the subsystem related to managing patient care plans for the treatment of musculoskeletal injuries. This is an API that organizes related exercises, classifications, appointments, diagnoses, etc. for patients, clinicians, and administrators.
 
 - **Integrations, observability, and tooling:** Built out improved EMR integration module based on FHIR for more robust and reusable components. I put together an observability architecture for instrumenting our application and core infrastructure. I improved team workflow with a container-based local setup, lean images, and a deployment tool (written in Go using Docker/AWS SDKs) for testing locally built images in a sandbox environment.
 
